@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-I'm Rory Hemmings, a second year Computer Science and Engineering major at UCLA. My interests include software engineering, cybersecurity and machine learning research.
+I'm Rory, a rising third year Computer Science and Engineering major at UCLA. My interests include software engineering, embedded systems, cybersecurity and machine learning research.
 
 🌐 Personal Website: [https://roryhemmings.com](https://roryhemmings.com)\
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px /> Linkedin [https://www.linkedin.com/in/rory-hemmings-a86a47222/](https://www.linkedin.com/in/rory-hemmings-a86a47222/) \
 📫 How to reach me: roryhemmings@ucla.edu\
-👯 I'm looking to collaborate on: small to medium size projects in C++ or Python\
-🔭 I’m currently working on: A new last mile delivery service: [Milkyway Delivery](https://milkywaydelivery.com/)
+👯 I'm looking to collaborate on: small to medium size projects in C, C++, or Python\
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roryhemmings&count_private=true&layout=compact&theme=dracula)
-![README Stats](https://github-readme-stats.vercel.app/api?username=roryhemmings&show_icons=true&count_private=true&theme=dracula)
+<!--![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roryhemmings&count_private=true&layout=compact&theme=dracula)
+![README Stats](https://github-readme-stats.vercel.app/api?username=roryhemmings&show_icons=true&count_private=true&theme=dracula)-->
 
 <!--
 **RoryHemmings/RoryHemmings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
