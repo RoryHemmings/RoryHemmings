@@ -3,7 +3,7 @@
 I'm Rory, a rising third year Computer Science and Engineering major at UCLA. My interests include software engineering, embedded systems, cybersecurity and machine learning research.
 
 🌐 Personal Website: [https://roryhemmings.com](https://roryhemmings.com)\
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px /> Linkedin [https://www.linkedin.com/in/rory-hemmings-a86a47222/](https://www.linkedin.com/in/rory-hemmings-a86a47222/) \
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px /> Linkedin [https://www.linkedin.com/in/rory-hemmings/](https://www.linkedin.com/in/rory-hemmings/) \
 📫 How to reach me: roryhemmings@ucla.edu\
 👯 I'm looking to collaborate on: small to medium size projects in C, C++, or Python
 
