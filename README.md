@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rory, a third year Computer Science and Engineering major at UCLA. My interests include software engineering, embedded systems, cybersecurity and machine learning research.
+I'm Rory, a fourth year Computer Science and Engineering major at UCLA. My interests include software engineering, embedded systems, cybersecurity and machine learning research.
 
 🌐 Personal Website: [https://roryhemmings.com](https://roryhemmings.com)\
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px /> Linkedin [https://www.linkedin.com/in/rory-hemmings/](https://www.linkedin.com/in/rory-hemmings/) \
