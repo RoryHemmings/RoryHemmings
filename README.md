@@ -2,7 +2,7 @@
 
 I'm Rory, My interests include software engineering, embedded systems, cybersecurity and machine learning research.
 
-🌐 Personal Website: [https://rory.wiki](https://rory.wiki)\
+🌐 Personal Website: [rory.wiki](https://rory.wiki)\
 📫 How to reach me: roryhemmings@ucla.edu
 
 <!--![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roryhemmings&count_private=true&layout=compact&theme=dracula)
