@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Rory, a fourth year Computer Science and Engineering major at UCLA. My interests include software engineering, embedded systems, cybersecurity and machine learning research.
+I'm Rory, My interests include software engineering, embedded systems, cybersecurity and machine learning research.
 
 🌐 Personal Website: [https://rory.wiki](https://rory.wiki)\
-📫 How to reach me: roryhemmings@ucla.edu\
+📫 How to reach me: roryhemmings@ucla.edu
 
 <!--![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roryhemmings&count_private=true&layout=compact&theme=dracula)
 ![README Stats](https://github-readme-stats.vercel.app/api?username=roryhemmings&show_icons=true&count_private=true&theme=dracula)-->
