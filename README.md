@@ -2,10 +2,8 @@
 
 I'm Rory, a fourth year Computer Science and Engineering major at UCLA. My interests include software engineering, embedded systems, cybersecurity and machine learning research.
 
-🌐 Personal Website: [https://roryhemmings.com](https://roryhemmings.com)\
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px /> Linkedin [https://www.linkedin.com/in/rory-hemmings/](https://www.linkedin.com/in/rory-hemmings/) \
+🌐 Personal Website: [https://rory.wiki](https://rory.wiki)\
 📫 How to reach me: roryhemmings@ucla.edu\
-👯 I'm looking to collaborate on: small to medium size projects in C, C++, or Python
 
 <!--![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roryhemmings&count_private=true&layout=compact&theme=dracula)
 ![README Stats](https://github-readme-stats.vercel.app/api?username=roryhemmings&show_icons=true&count_private=true&theme=dracula)-->
